@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agamgupta2015" alt="agamgupta2015" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolioagam.000webhostapp.com/](https://portfolioagam.000webhostapp.com/)
+- 👨‍💻 All of my profile details are available at [https://portfolioagam.000webhostapp.com/](https://portfolioagam.000webhostapp.com/)
 
 - 💬 Ask me about **C++ React Java HTML/CSS/JAVASCRIPT**
 
