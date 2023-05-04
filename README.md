@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **agamgupta2015@gmail.com**
 
-- 📄 Know about my experiences [https://portfolioagam.000webhostapp.com/](https://portfolioagam.000webhostapp.com/)
-
 - ⚡ Fun fact **Crazy Coder**
 
 <h3 align="left">Connect with me:</h3>
