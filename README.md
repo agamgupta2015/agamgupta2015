@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Agam Gupta</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agamgupta2015&label=Profile%20views&color=0e75b6&style=flat" alt="agamgupta2015" /> </p>
+- 👨‍💻 Portfolio : [https://portfolioagam.000webhostapp.com/](https://portfolioagam.000webhostapp.com/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agamgupta2015" alt="agamgupta2015" /></a> </p>
-
-- 👨‍💻 All of my profile details are available at [https://portfolioagam.000webhostapp.com/](https://portfolioagam.000webhostapp.com/)
-
-- 💬 Ask me about **C++ React Java HTML/CSS/JAVASCRIPT**
+- 💬 Ask me about **C++ / React / HTML / CSS / JAVASCRIPT**
 
 - 📫 How to reach me **agamgupta2015@gmail.com**
-
-- ⚡ Fun fact **Crazy Coder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
