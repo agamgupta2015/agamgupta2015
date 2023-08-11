@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agam Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agamgupta2015&label=Profile%20views&color=0e75b6&style=flat" alt="agamgupta2015" /> </p>
 
