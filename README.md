@@ -18,8 +18,6 @@
 
 [![agamgupta2015's GitHub | Stats](https://stats.quine.sh/agamgupta2015/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=agamgupta2015)
 
-[![agamgupta2015's GitHub | Languages Over Time](https://stats.quine.sh/agamgupta2015/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=agamgupta2015)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agamgupta2015&show_icons=true&locale=en&layout=compact" alt="agamgupta2015" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agamgupta2015&show_icons=true&locale=en" alt="agamgupta2015" /></p>
