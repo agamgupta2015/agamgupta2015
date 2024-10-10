@@ -1,37 +1,66 @@
 <h1 align="center">Hi 👋, I'm Agam Gupta</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer | C++ | React | JavaScript</h3>
 
-- [Portfolio 👨‍💻](https://portfolioagam.000webhostapp.com/)
-
-- 💬 Ask me about **C++ / React / HTML / CSS / JAVASCRIPT**
-
-- 📫 How to reach me **agamgupta2015@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/agam-gupta-117660203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/agam-gupta-117660203" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/agamgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="agamgupta" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://portfolioagam.000webhostapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:agamgupta2015@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-</a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/> </a> </p>
+<h3 align="center">🚀 About Me</h3>
+<p align="center">
+  💬 I’m a passionate Full Stack Developer with experience in building web applications using <strong>React, JavaScript, HTML, CSS,</strong> and backend with <strong>C++.</strong> 
+  I enjoy tackling new challenges, learning new technologies, and collaborating with others to build exciting projects.
+</p>
+<p align="center">💻 Ask me about <strong>React / C++ / HTML / CSS / JavaScript</strong></p>
 
-[![agamgupta2015's GitHub | Stats](https://stats.quine.sh/agamgupta2015/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=agamgupta2015)
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agamgupta2015&show_icons=true&locale=en&layout=compact" alt="agamgupta2015" /></p>
+<h3 align="center">🔗 Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/agam-gupta-117660203" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Agam%20Gupta-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.codechef.com/users/agamgupta" target="blank">
+    <img src="https://img.shields.io/badge/CodeChef-Agam-orange?style=flat-square&logo=codechef" alt="CodeChef" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agamgupta2015&show_icons=true&locale=en" alt="agamgupta2015" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agamgupta2015&" alt="agamgupta2015" /></p>
+<h3 align="center">🛠️ Technologies & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+</p>
 
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agamgupta2015&show_icons=true&theme=algolia&hide_border=true" alt="Agam's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agamgupta2015&theme=algolia&hide_border=true" alt="Agam's GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamgupta2015&layout=compact&theme=algolia&hide_border=true" alt="Agam's Top Languages" width="48%" />
+</p>
+
+---
+
+<h3 align="center">🌟 My Dev Quote</h3>
+<p align="center">
+  <em>"Code is like humor. When you have to explain it, it’s bad."</em>
+</p>
