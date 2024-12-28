@@ -14,7 +14,7 @@
 
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
-  💬 I’m a passionate Full Stack Developer with experience in building web applications using <strong>ReactJS, JavaScript, HTML, Advanced CSS,</strong> and backend with <strong>NodeJS and MongoDB.</strong> 
+  💬 I’m a Cool 😎🆒 Full Stack Developer with experience in building web applications using <strong>ReactJS, JavaScript, HTML, Advanced CSS,</strong> and backend with <strong>NodeJS and MongoDB.</strong> 
   I enjoy tackling new challenges, learning new technologies, and collaborating with others to build exciting projects.
 </p>
 <p align="center">💻 Ask me about <strong>ReactJS / C++ / HTML / CSS / JavaScript</strong></p>
